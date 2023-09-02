@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d10a39f-f194-486b-bd9c-775253bf9858" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2UYJwq7TY2Tjj1xny7zfdd6iZmZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/IntelliJ IDEA 2023.1.3/workspace/rabbitmq",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "spring.configuration.checksum": "2193c741696d130a71a66f12ec4a0d44",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ IDEA 2023.1.3\workspace\rabbitmq\springboot-consumer-mq\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.study.consumerack.listener" />
+      <recent name="com.study.consumer" />
+      <recent name="com.study.producer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SpringbootProducerDelayApplicationTests.testDelay">
+    <configuration name="SpringbootConsumerAckApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-consumer-ack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.consumerack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.study.consumerack" />
+      <option name="MAIN_CLASS_NAME" value="com.study.consumerack.SpringbootConsumerAckApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootProducerConfretApplicationTests.testConfirm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-producer-confret" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.study.producer" />
+      <option name="MAIN_CLASS_NAME" value="com.study.producer.SpringbootProducerConfretApplicationTests" />
+      <option name="METHOD_NAME" value="testConfirm" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootProducerDelayApplicationTests.testDelay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-producer-delay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.study.producer" />
+      <option name="MAIN_CLASS_NAME" value="com.study.producer.SpringbootProducerDelayApplicationTests" />
+      <option name="METHOD_NAME" value="testDelay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootProducerDlxApplicationTests.testDlx" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-producer-dlx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.study.producer" />
+      <option name="MAIN_CLASS_NAME" value="com.study.producer.SpringbootProducerDlxApplicationTests" />
+      <option name="METHOD_NAME" value="testDlx" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootProducerTtlApplicationTests.testTtl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-producer-ttl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.study.producer" />
+      <option name="MAIN_CLASS_NAME" value="com.study.producer.SpringbootProducerTtlApplicationTests" />
+      <option name="METHOD_NAME" value="testTtl" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootConsumerAckApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot-consumer-ack" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.consumerack.SpringbootConsumerAckApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootConsumerMqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot-consumer-mq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.consumer.SpringbootConsumerMqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootProducerConfretApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot-producer-confret" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.producer.SpringbootProducerConfretApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootProducerDlxApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot-producer-dlx" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.producer.SpringbootProducerDlxApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootProducerMqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot-producer-mq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.producer.SpringbootProducerMqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootProducerTtlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot-producer-ttl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.study.producer.SpringbootProducerTtlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringbootProducerDelayApplicationTests.testDelay" />
+        <item itemvalue="JUnit.SpringbootConsumerAckApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.SpringbootProducerDlxApplicationTests.testDlx" />
+        <item itemvalue="JUnit.SpringbootProducerTtlApplicationTests.testTtl" />
+        <item itemvalue="JUnit.SpringbootProducerConfretApplicationTests.testConfirm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d10a39f-f194-486b-bd9c-775253bf9858" name="Changes" comment="" />
+      <created>1693110824794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693110824794</updated>
+      <workItem from="1693110825606" duration="2611000" />
+      <workItem from="1693113965267" duration="16731000" />
+      <workItem from="1693187847569" duration="15064000" />
+      <workItem from="1693297632311" duration="9739000" />
+      <workItem from="1693520384752" duration="6246000" />
+      <workItem from="1693636939946" duration="6101000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/rabbitmq$SpringbootProducerConfretApplicationTests_testReturn.ic" NAME="SpringbootProducerConfretApplicationTests.testReturn Coverage Results" MODIFIED="1693298764045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.study.producer.*</FILTER>
+    </SUITE>
+  </component>
+</project>
